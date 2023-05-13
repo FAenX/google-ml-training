@@ -2,7 +2,7 @@
 
 
 ``` sh
-docker build -t google-machine-learning .
+docker build -t training-data-analyst .
 ```
 
 ``` sh
